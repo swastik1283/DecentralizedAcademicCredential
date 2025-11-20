@@ -1,0 +1,178 @@
+{
+  "0xCERTIFICATE_HASH_1": {
+    "hash": "0xCERTIFICATE_HASH_1",
+    "fileUrl": "uploads/your_uploaded_file1.png",
+    "aiScore": {
+      "layoutScore": 66.17,
+      "sealScore": 100,
+      "signatureScore": 0,
+      "finalScore": 68.09,
+      "details": {
+        "layout": 66.17,
+        "seal": 100,
+        "signature": 0
+      }
+    },
+    "ocr": "Extracted OCR text...",
+    "timestamp": 17373738383
+  },
+  "0xCERTIFICATE_HASH_2": {
+    "hash": "0xCERTIFICATE_HASH_2",
+    "fileUrl": "uploads/anotherCertificate.png",
+    "aiScore": {
+      "layoutScore": 42,
+      "sealScore": 22,
+      "signatureScore": 0,
+      "finalScore": 30,
+      "details": {
+        "layout": 42,
+        "seal": 22,
+        "signature": 0
+      }
+    },
+    "ocr": "Another extracted OCR...",
+    "timestamp": 17373740000
+  },
+  "0x5b5e9001fc117eb004902d0d68a7eb9d49547b037abd9279c0690162502b6549": {
+    "hash": "6b4fabc3fb28251ee8014dabd072f73af000d033ed216f80d0a8cd25b00a58a6",
+    "fileUrl": "uploads/279ba5e5274a94181bf85cdf37978f88",
+    "aiScore": {
+      "layoutScore": 11.32,
+      "sealScore": 56,
+      "signatureScore": 0,
+      "finalScore": 25.26,
+      "details": {
+        "layout": 11.32,
+        "seal": 56,
+        "signature": 0
+      }
+    },
+    "ocr": "Free CCNA | TCP & UDP | Day 30 | CCNA 200-301 Complete Course ®\nje Port Numbers =\n\nTCP UDP TCP & UDP\n\n* FTP data (20) * DHCP server (67) * DNS (53)\n\n* FTP control (21) * DHCP client (68)\n\n* SSH (22) * TFTP (69)\n\n* Telnet (23) * SNMP agent (161)\n\n* SMTP (25) * SNMP manager (162)\n\n* HTTP (80) * Syslog (514)\n\n« POP3 (110)\n\n* HTTPS (443)\n\nEN >\n\nBe ————————— ee La EE — — —— — ————\n> dq <¢ 24:18 / 33:58 Important Port Numbers > A = ex ER\n",
+    "timestamp": 1763625280211
+  },
+  "0x1a4a0238ee9ac1066b424364698d8a19e2b3ea6271fcefee4cd868f0c3299735": {
+    "hash": "e32ed9ffeeafd0f7aa90498401812b8c6e848679720195003eb65bce4201e5f5",
+    "fileUrl": "uploads/184d7b17cbcd9ddb4733e63f31600aaa",
+    "aiScore": {
+      "layoutScore": 10.69,
+      "sealScore": 60,
+      "signatureScore": 0,
+      "finalScore": 26.34,
+      "details": {
+        "layout": 10.69,
+        "seal": 60,
+        "signature": 0
+      }
+    },
+    "ocr": "Free CCNA | IPv6 Part 2 | Day 32 | CCNA 200-301 Complete Course 6)\nje Multicast addyesses J\nPurpose IPv6 Address IPv4 Address\nAll nodes/hosts\n, i FFO2::1 224.0.0.1\n(functions like broadcast)\nAll routers FFO2::2 224.0.0.2\nAll OSPF routers FFO2::5 224.0.0.5\nAll OSPF DRs/BDRs FFO2::6 224.0.0.6\nAll RIP routers FFO2::9 224.0.0.9\nAll EIGRP routers FFO2: :A 224.0.0.10 =\n5H & 5\nIMoreivideosiV:\n—_—— _—e_—,—,,e,—_—,—,—,—,—,e,e —— nm ——_—_——— — —— —— —— — ——— —————————————\ndq <¢ 18:37 / 39:32 Multicast addresses > A [--] Br - os 1)\n",
+    "timestamp": 1763626432682
+  },
+  "0x4963505e0117b7ccfd40ea933164cfbaba8025fd9cb63f526b577816890f004e": {
+    "hash": "3074ca32ea8aaaef8925206a4ee291cd729faddddf5e429e94fae69077d51b3e",
+    "fileUrl": "uploads/74f8ac38bacdf475de805536c15b54c9",
+    "ocr": "PAREN © HackStack A 08 I 00 6 \\ 4 \\ 4 (C) [ Qe [J]\n| 1 EXPLORER cee jsX Js institutionRoutes.js Js certificateRoutes.js X 4\nv HACKSTACK backend > routes > Js certificateRoutes.js > © router.get(\"/looku |\n5 aie . 25\n£ al-service 26 // Route: POST /api/certificate/verify .\n~ backend 27 router.post( VC VeriCert |\n& > assets 28 \"/verify-only\",\n> config 29 upload.single(\"certificate\"),\nPT. 30 > async (req, res) => {- i\n> i 71 } 2\nJs certificateContro... U 72 Yr\nH\nVv data 73 @ Recents <> 88 vv = B Desktop — iCloud ® Q Search\nBs {} certificates.json 74 eo\nFR. . \" i \" —% Shared\n{} institutions.json 75 > router.post(\"/register\", async (req, re Screenshot Screenshot Screenshot Screenshot Screenshot Screenshot\n© > oer Frais 11 3); 2025-1..58.26PM  2025-1..28.36PM  2025-1..28.37PM  2025-1...52.13PM  2025-1...24.11PM ~~ 2025-1...50.08 PM\n= 112 Favorites\nVv routes\n— - 113 Z\\ Applications\nJs certificateRoutes.js 114\nJs institutionRoutes js 115 ES Desktop = <= ED ED = |\n0 TTT 116 router.get(\"/lookup/:tx\", (req, res) =>\nJs aiServiceCaller.j nl const tx = req.params. tx; B pocume.. s hot s hot s hot s hot s hot s hot\naiServiceCaller.js i ox p creensho creensho creensho creensho creensho creensho\n118 const dbPath = \"data/certificates.jsq\nJs Blockchain.js 119 © Downloads 2025-1...50.04PM  2025-1..49.39PM  2025-1....47.41PM  2025-1...47.33PM  2025-1...18.25PM  2025-1...08.36 PM\nJs hashService.js 120 if (!fs.existsSync(dbPath)) {\nJs ocrService.js 121 | return res.status(4e4).json({ succe Locations p—\nYn 122 i i ——\nJs sealService.js BE & iCloud Drive |=] E\n> uploads 124 let certdB = {}; {a} swastikkotwal\n3 env u 125 try { Screenshot Screenshot\n{} contractABljson U 126 certdB = JSON.parse(fs.readFileSync [I=L Swastik's M.. 2025-1..08.29PM  2025-1..05.58PM\n£ eng.traineddata u TERMINAL ~~ --- node - backend + v | Tags\nJs index.js u .\nswastikkotwal@l92 backend % npm run server ® Red Show Options Cancel\n{} package-lock.json & Route hit\n{} package.json Ee too small to scale!! (2x36 vs min width of -.\n> contract swastikkotwal@l92 backend % npm run server\nv frontend > backend@l.0.0 server\n> node_modules > node index.js i\n> public [dotenv@l7.2.3] injecting env (3) from .env —— tip: )\n® Vv src up and recover secrets: https://dotenvx.com/ops\n[dotenv@l7.2.3] injecting env (@) from .env —— tip: &F\n> assets vent building .env in docker: https://dotenvx.com/preb\n$c% > OUTLINE ar S001\nerver running on port =\n> TIMELINE 0 gone EO\nOX PP maint ®» ®O0AO0 Ln 121, Col 28 Spaces: 2 UTF-8 LF {} JavaScript a\n> Py. Phage. = 2 Uo iS —— I —_— a “—y JE ——— » NR\nO00 FEONSRAOISD \"PORE PcPQ =F . . :W\n= - = > $s CBW 8 @\"o°\na as eg | #5 BEET mame seems La po BND, NL Pe a bailey. § | 5 ) Ty — 7 7 i TY a YEE TT )\n",
+    "aiScore": {
+      "layoutScore": 4.11,
+      "sealScore": 100,
+      "signatureScore": 0,
+      "finalScore": 37.05,
+      "details": {
+        "layout": 4.11,
+        "seal": 100,
+        "signature": 0
+      }
+    },
+    "finalScore": 37.05,
+    "timestamp": 1763630846731
+  },
+  "0x305988ff520c4ffe7f1f760242acad55adc488fc890e368baad0e104d3d49638": {
+    "hash": "dbb322a60bd9f02d3bf38468b5c4bf31dd363fcda526be71f73e6cc7d741f96f",
+    "fileUrl": "uploads/73eae232e975aefd7d3f23a841eb9f25",
+    "ocr": "00 <2 A HackStack RA 0s 0 @® Dece W fi x W front @ Redi [B Hack @ AML @ (87) + v\nEXPLORER ee Js certificateRoutes.js X JS sealService.js Js aiServiceCal (0 --- — a\n| 1 ] J « > C ® localhost:5173/uplo... Y¢ | J BM 0 & = I} =r Ee ) H\nv HACKSTACK kend > routes > Js certificateRoutes.js > § router.post(\"/verify-only\") callback\n0 > ai-service s Find mab KL = x | Dimen.. v 360 x 740 1v Nv ‘Save-Data: default + & i ic [Do Red on ® ® FX |\n\\ backend — = MQ tpv | ®\n53 )) . P|\n& > assets 54 ! = Se Y Filter Default levels v\n> fi ae\nHEINE 55 const finalScore = aiResult.finalScore || @ -===z== 2 Issues: A1 B1 | 2 hidden £3\n“controllers Pet = fi u kl BE :\n> - 56 const verdict = rile > 60 ? \"Very Lik a Dashboard © »POST UploadPage.jsx:14 @\nJs certificateContro... U 57) finalScore >= 50 ? \"Needs M E& http: //localhost:5001/api/ce..\n\\ data 58 \"Likely Forged\"; Ee 500 (Internal Server Error)\nBs {} certificates.json * . EEE > to turn on code\nA 60 return res.json({ em suggestions. Don't show again\ninstitutions.json 61 success: true, £7\n© > node_modules 62 mode: \"verify-only\", == )\nVv routes 63 fileUrl: filePath, a Quick Preview\nJs certificateRoutes.js oH hash: fileHash, Ey Likely Forged\nJS institutionRoutes.i 65 aiScore: aiResult, =m sing\n[ELL SRL CH 66 finalScore, Em Certificate Preview\nhd services } 67 verdict, Bert\nJs aiServiceCaller.js 68 ocr: extractedText\nJs Blockchain.js 69 Hi OCR Extract\nJs hashService.js 2 ) T006\\4\\ 4 (C) [Qe [J]\nJslocrServiceljs 71 } catch (err) { s institutionRoutes.js Js certificatef\na 72 console.error(err); | routes > Js certificateRoutes.js > © i\nJs sealService.js VE] return res.status(500).json({ success: fals } oe }\n> uploads 74 } te: POST /api/certificate/verify .\n2 75 } st( VC VeriCert |\n2 env u —only\",\n76 A FR PTY\n{} contractABl.json u i i\n_ 5 Hash:\n= engtraineddata ~~ U TERMINAL ++: BJ node - backend + [0 @ --- | [I X 3074ca32eaBaaaef8925206adee291cd729fac\nJS index.j u Be\nEEE . swastikkotwal@l92 backend % npm run server A\n{} package-lock.json 0000000000000000000000000000000000000000000000000000000000 |\nf 0000000000000000000000000000000000000000000000000000000000\n{} package.json CR I\n> contract gasUsed: 26301n, i  What'snew x > 0 x |\nblobGasUsed: null, ——\npaicniend cumulativeGasUsed: 23250464n, 1 .\n> node_modules gasPrice: 1000030n, . [@) What's new in\n. blobGasPrice: null u\n> public type: 2, ’ ! DevTools 142\n® “src status: 0,\nroot: undefined\n£5 > OUTLINE shortMessage: 'transaction execution reverted’\n}\n> TIMELINE []\n\nOX IP main* ® ® 0A 0 (¥R) was pressed. Waiting for second key of chor UTF-8 LF {} JavaScript & 0) | FEE oem ee ee bitis\nNW — —~—r—— —P - - C— —\\ f~ — a\nO00 E0NENOIOD- PHOEBE Cc00 Fay |\n\n= : » C w WY we ‘es sco WW\n~ © er ~ BE ——— we ___ EY Ei. 1 BEERS SE oY. AEs v oF yal TE id\n",
+    "aiScore": {
+      "layoutScore": 3.77,
+      "sealScore": 100,
+      "signatureScore": 0,
+      "finalScore": 36.88,
+      "details": {
+        "layout": 3.77,
+        "seal": 100,
+        "signature": 0
+      }
+    },
+    "finalScore": 36.88,
+    "timestamp": 1763630931237
+  },
+  "0xa60cb21b145787fab328b076a82e0b4b1be8c0dda1e130dfcea1c7cb1edbf21c": {
+    "hash": "83304d3bd415dec053c9768a65fcb3878779a13d50217657226b533fdc9636c3",
+    "fileUrl": "uploads/7507bfb298990678ba07e323b6b811b8",
+    "ocr": "& = LO HackStack os IE I= OOO GDDecec WED WH x Wont @ Red BD Hack  @ AML + v\nEXPLORER --=  § ResultCard.jsx % DashBoard.jsx % UploadPage.jsx xX [0 --- = 0\n| IPS L L EERE] & 5 @ © localhost5173/uplo.. Yr © CIC GE w SE A. J\nv HACKSTACK 1d > src > pages > % UploadPage.jsx > @ UploadPage > [el registerCertificate\n£ + backend NT paab ¥ TL = x Ey Dimen.. v 360 x 740 1v Nv ‘Save-Data: default + & i ic [0 |» a ® ® FX\n{} package-lock.json a - fo Do —_\n. Sa topvy | ©\n{} package.json 9 // Call backend to store the certificate perman Ea )\n&® N I 10 const registerCertificate = async () => { —— Y Filter Default levels v\ncontrac es =\n11 if (!result) return alert(\"No certificate to &=-- |\nNY entend i Tn VeriCert 2 Issues: B11 B1 | 2 hidden £83\n& > node_modules 13 try { = ve Academic Home Upload Dashbc > (end)(d) to turn @ Gh\n> public 14 const res = await fetch(\"http://localhost:5 == edantal SLs Bie Sid leily\nm3 — 15 method: \"POST\", fe\n16 headers: { \"Content-Type\": \"application/j mn\n> assets 17 body: JSON.stringify(result), Ime\n\\ components 18 3 £0 A\n€@ come | ni Upload & Verify\n4% CertificateUpload.jsx 19 ifi GC\n% DashBoard,jsx 2 const date = eit eles ed + Certificate A\n% InstituteDashboard.jsx iN 1 0a a-success return ater atted to Upload a certificate to check authenticity using\nPo . load. 22 setResult (prev => ({ Al. Choose to officially register it only if it\nInstituteUpload.jsx 23 ...prev, passes verification.\n% Nav.jsx 24 blockchainTx: data.blockchainTx\n% ResultCard.jsx 25 1H); Select certificate (image / PDF)\n© pages 26 setApproved(true); \"\npag i 27 alert(\"Certificate successfully added to bl Choose File [NCRICEIEECY\n%% DashboardPage.jsx 28 } catch (err) { I 5\n© HomePage.jsx 29 alert(\"Register failed\");\n£ PublicVerificationPa... 30 }\n% StudentLookup.jsx - +\n<% UploadPage.jsx 33 ey\n# App.css TERMINAL ~~ BJ node - backend + [0 @ -- | [2 X\n<> App.jsx EE\nq swastikkotwal@l92 backend % npm run server hl\n# index.css ored' I\n:\n< main.jsx data: '0x08c3792000000000000000000000000000000000000 2\niti 0000000000000000000000000002000000000000000000000000000000 o ,\n-gitignore 0000000000000000000000000000000001a63657274696669636174652 I i What'snewX >> ao x\n@ eslint.config.js HT HE ERE ET EE AOE H\n. L .\n< index.html payload: { . What's new in\n{} package-lock.json method: 'eth_estimateGas'\na g . l params: [Array], ’ . DevTools 142\n® {} package.json id: 60,\njsonrpc: '2.0'\n£23 > OUTLINE . }\n> TIMELINE il\nOX maint ® ®0AO Ln25,Col9 Spaces:4 UTF-8 LF {} JavaScriptJSX & 0 FEN am et itis\n4 > Ph, Umma. 3 3) a «Ep ——— Bas\nO00 FREONSAOI8D \"PORE PcPQ mE . . :W\n. . k . . ’ . . . . \\ ® LJ : . ©\n_ SE CT AERTS ENO —_ Sl i - L - ~\n",
+    "aiScore": {
+      "layoutScore": 3.66,
+      "sealScore": 100,
+      "signatureScore": 0,
+      "finalScore": 36.83,
+      "details": {
+        "layout": 3.66,
+        "seal": 100,
+        "signature": 0
+      }
+    },
+    "finalScore": 36.83,
+    "timestamp": 1763632313606
+  },
+  "0xdb81699f095cfe4643b0560fabe0f07e59fcc23726cf60f480cb4d6f63d7453b": {
+    "hash": "508a2ac5c19354701240c4872d6bc97701e5fd277c850890c267bb9eacb5641d",
+    "fileUrl": "uploads/7169974292dc0fe938b0e4dff19b0ef6",
+    "ocr": "« > © HackStack (RV IE 0 © 5 Vix W (CG) [) =) v |\nEXPLORER --=  § ResultCard.jsx %% DashBoard.jsx < UploadPage.jsx X\n® localhost\nv HACKSTACK 1d > src > pages > % UploadPage.jsx > @ UploadPage > [el registe! |\nf +\njo) v backend N ihe REE r L = x Dimen... ¥ 1v Nv o>» ct\n{} package-lock.json\n{} package.json 9 // Call SCRE uD SOIC the certificate permar >\n&® N 10 const registerCertificate = async () => { -B\nCoptEct 11 if (!result) return alert(\"No certificate to . i. =\n+ frontend 12 VeriCert\n8\n£ > node_modules 13 try { a\nfi 14 const res = await fetch(\"http://1 _ .\n® > public - method: \"POST\", — © Recents <> 88 v Ev 8 Desktop — iCloud S Q Search\nVv src\n16 headers: { \"Content-Type\": \"app o\nCS Shared\n> assets 17 body: JSON.stringify(result), & s\n© vv components 18 1; _\n% CertificateUpload.jsx 19 Sh f = i I | BST =\n% DashBoard.jsx 20 const data = await res.json(); Z\\ Applications t= E=1\"H i\nTN — 21 if (!data.success) return alert(\"\nLL : SLERCE oar ER 7) setResult(prev => ({ & Desktop HackStack <> Screenshot Screenshot Screenshot Screenshot Screenshot\n© InstituteUpload.jsx 23 ...prev, 2025-11...0.41PM 2025-11..817PM ~~ 2025-11..3.45PM  2025-11..7.23AM  2025-11...4.29 AM\n© Nav.jsx 24 blockchainTx: data.blockchainTx 6 ZeclmeE i\n© ResultCard.jsx 2 Hj © Downloads\n© pages 26 setApproved(true); f 3 ( 3 ( 3\npag 27 alert(\"Certificate successfully a ) BEd | | |\n% DashboardPage.jsx 28 Bb sien (rr) 4 Locations - - -\n% HomePage. jsx 2 alert(\"Register failed\"); & iCloud Drive Screenshot newoe Screenshot Screenshot Screenshot Screenshot\n<% PublicVerificationPa... 30 } . 2025-11...0.59PM 2025-11...3.00PM  2025-11..819PM  2025-11...17PM 1 2025-11...817PM\n; 31 De {a} swastikkotwal\n% StudentLookup.jsx 7 ’\n2 UploadPage.jsx = return ( [1 Swastik's M... -\n# App.css TERMINAL ~~ node - backend + | : so = —— =a |\n<> App.jsx ags\n7 lee EEs swastikkotwal@l92 backend % npm run server ® Red Show Options Cancel Open\n: 00000000000000000000000000000000000000000000000'\n< main.jsx 000000000000000000000000000000000000000000000000v~— L\niti 00000000\", ...4.29 AM\ndUEElE gasUsed: 26301n, =\n@ eslint.config.js blobGasUsed: null, -\n. cumulativeGasUsed: 18548845n, \" en\n<> index.html gasPrice: 999995n, What's new in i\no i blobGasPrice: null ©) .\n{) package-lock json propgast DevTools 142 :\n® {} package.json status: 0, .\nroot: undefined ¢\n® README.md 1 See all new features\n£5 > OUTLINE shortMessage: 'transaction execution reverted’\n}\n> TIMELINE i]\nOX Pmaint® ®0AO0 Ln 25,Col 9 Spaces:4 UTF-8 LF {} JavaScript JSX FE am i\nO00 FEONSAOI8D \"PORE P-PQ mE . . :W\n~ . 5 . . ’ - . . . . x ® LJ } § ©\n— _— — TE Ee - — —\n",
+    "aiScore": {
+      "layoutScore": 4.03,
+      "sealScore": 100,
+      "signatureScore": 0,
+      "finalScore": 37.02,
+      "details": {
+        "layout": 4.03,
+        "seal": 100,
+        "signature": 0
+      }
+    },
+    "finalScore": 37.02,
+    "timestamp": 1763632359697
+  },
+  "0x36ca3eb40f7ce1870470d63dd7a649dbbfd4a64c27498867528b200188c4b941": {
+    "hash": "a55d944517a8f212493c032983d4b43663085c64df22c4b99096c9bf97c041d2",
+    "fileUrl": "uploads/c8657642d0c167688e86649462aa5591",
+    "ocr": "[J\n« > O HackStack [RV IE A=\n| il EXPLORER =.= JS index.js U {} package.json U Js Blockchain.js U Ae http:/flocalhos... ® X Js certificateRoutes.js U Js certificateController.js U {} contractABl.json U m --\nVv HACKSTACK =\n0 backend ~ HP http://localhost:5000/api/certificate/verify BR save | Vv No Environment El\nVv backen\n> config\n& Vv controllers o POST ~v | http://localhost:5000/api/certificate/verify send |v\nJs certificateContro... U\n> > node_modules o Params Authorization Headers (9) Body e Scripts Settings Code Cookies\n& Vv routes ®\nJs certificateRoutes... UO none @ form-data  (O x-www-form-urlencoded OO raw (O binary (OO GraphQL\nBs Vv services °\nJs Blockchain.js uU Ly Vale\n© Js hashService.js u certificate JUsers/swastikkotwal/Downloads/Course_Completion_Certificate (1).pdf X\nJs ocrService.js uU\nJs sealService.js uU iY Vale\n> uploads\n2 env u\n{} contractABl.json u i\n15 index. 0 Body Cookies Headers (4) Test Results ® Status: 403 Forbidden Time: 3 ms Size: 143B = [1]\nindex.js —_—\n{} package-lock.json U Raw | Preview Text v = oO Q\n{} package.json u\n> contract ° 1\nVv frontend °\n{} package.json u\nPROBLEMS ~~ OUTPUT DEBUG CONSOLE ~~ TERMINAL ~~ PORTS POSTMAN CONSOLE zsh-backend +v [0 W@W --- | 03 X\nswastikkotwal@l92 backend % npm run server Fo\n> backend@l.0.0 server i\n> node index.js\n[dotenv@l7.2.3] injecting env (3) from .env —— tip: @ add secrets lifecycle management: https://dotenvx.com/ops -\n[dotenv@l7.2.3] injecting env (@) from .env —— tip: @& encrypt with Dotenvx: https://dotenvx.com =\nServer running on port 5000 C\n© swastikkotwal@192 backend % npm run server\n> backend@l.0.0 server J\n® > node index. js ny\nn\n[dotenv@17.2.3] injecting env (3) from .env —— tip: # add access controls to secrets: https://dotenvx.com/ops \"\n> OUTLINE [dotenv@l7.2.3] injecting env (@) from .env —— tip: ® audit secrets and track compliance: https://dotenvx.com/ops \"5\n$33 Server running on port 5000 H\n> TIMELINE swastikkotwal@192 backend % [] ]\n5 3° maint ® ®0AO0 8\n",
+    "aiScore": {
+      "layoutScore": 10.11,
+      "sealScore": 32,
+      "signatureScore": 0,
+      "finalScore": 16.25,
+      "details": {
+        "layout": 10.11,
+        "seal": 32,
+        "signature": 0
+      }
+    },
+    "finalScore": 16.25,
+    "timestamp": 1763634388685
+  },
+  "0x6698f670701e57c100352470d9f8b5511e15b9ed441df2a71638052404d73e5b": {
+    "hash": "173b37868b1b0d851549751b333493bbb769a9f7cd160437c7a83cb2f5400d0c",
+    "fileUrl": "uploads/2147758025770bab3fd4c4abb32f722f",
+    "ocr": "amn\nF=:RTINET F&ERTINET\n« oo . CERTIFIED\nTraining Institute FUNDAMENTALS\nCybersecurity\nThis/Certifies that\nSwastik Kotwal\n~<} as achieved\nfet CeTtifide Fundamot s in Cybersecurity\nDate of achtevement: ) November 1, 2025\nValiguritil: November 1, 2027\nCerijfication validation number: 5380844884SK\nKen Xie Michael Xie\nCEO of Fortinet President and Chief Technology\nei Officer (CTO), Fortinet\nVerify this certification's authenticity at:\nOffs https:/training.fortinet.com/admin/tool/certificate/index.php\n",
+    "aiScore": {
+      "layoutScore": 5.31,
+      "sealScore": 100,
+      "signatureScore": 0,
+      "finalScore": 37.66,
+      "details": {
+        "layout": 5.31,
+        "seal": 100,
+        "signature": 0
+      }
+    },
+    "finalScore": 37.66,
+    "timestamp": 1763634807418
+  }
+}

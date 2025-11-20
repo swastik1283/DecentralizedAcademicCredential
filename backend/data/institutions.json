@@ -1,0 +1,12 @@
+{
+  "institution1": {
+    "template": null,
+    "seal": null,
+    "signature": null
+  },
+  "default": {
+    "template": "uploads/templates/361c37c4daec525f77c0581b97c5fef2",
+    "seal": "uploads/templates/793eefb9def6be3343ea31030b03c963",
+    "signature": "uploads/templates/1c3056880ac0b21b55f98aad4de39226"
+  }
+}
