@@ -14,11 +14,7 @@ app.use(cors({
     allowedHeaders: ["Content-Type"],
   }));
 app.use(express.json());
-// index.js (near top, after app and cors setup)
-app.get("/health", (req, res) => {
-  res.setHeader("Access-Control-Allow-Origin", "http://localhost:5173"); // shows CORS header
-  res.json({ ok: true });
-});
+
 app.use("/api/institution",institutionRoutes)
 
 app.use("/api/certificate", certificateRoutes);
