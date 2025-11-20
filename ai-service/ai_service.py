@@ -1,16 +1,3 @@
-   #!/usr/bin/env python3
-"""
-ai_service.py
-
-Usage (verify):
-python ai_service.py --verify --uploaded /path/to/uploaded.png \
-  --template /path/to/officialTemplate.png \
-  --seal /path/to/officialSeal.png \
-  --sig1 /path/to/officialSignature1.png
-
-Outputs JSON to stdout with fields:
-{ "layoutScore":..., "sealScore":..., "signatureScore":..., "finalScore":..., "details":{...} }
-"""
 
 import argparse
 import json
@@ -92,7 +79,7 @@ def orb_match_score(img1, img2):
     # sort matches by distance (lower is better)
     matches = sorted(matches, key=lambda x: x.distance)
     # use good matches (distance threshold)
-    good = [m for m in matches if m.distance < 60]  # threshold, tweak if needed
+    good = [m for m in matches if m.distance < 60]  
     # normalized by min keypoint count (so ratio is robust)
     denom = min(len(k1), len(k2), 100)
     score = (len(good) / denom) * 100.0
@@ -155,11 +142,11 @@ def verify_certificate(uploaded_path, template_path, official_seal_path, seal_bb
             except Exception as e:
                 signature_scores.append(0.0)
                 out.setdefault('signature_errors', []).append(str(e))
-    # average signature score (if any)
+    # average signature score 
     sig_score_avg = round(np.mean(signature_scores) if signature_scores else 0.0, 2)
     out['signatureScore'] = sig_score_avg
 
-    # combine final AI confidence (weighted)
+    # combine final AI confidence 
     final = 0.5*layout + 0.35*seal_score + 0.15*sig_score_avg
     out['finalScore'] = round(final, 2)
 
