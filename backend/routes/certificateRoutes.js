@@ -133,9 +133,8 @@ router.get("/lookup/:tx", (req, res) => {
   }
 
   if (!certDB[tx]) {
-    return res
-      .status(404)
-      .json({ success: false, message: "Certificate not found" });
+    const imagePath = certDB[tx].fileUrl;
+  return res.sendFile(path.resolve(imagePath));
   }
 
   return res.json({
@@ -143,6 +142,31 @@ router.get("/lookup/:tx", (req, res) => {
     certificate: certDB[tx],
   });
 });
+
+
+router.get("/image/:tx", (req, res) => {
+  const tx = req.params.tx;
+  const dbPath = "data/certificates.json";
+
+  if (!fs.existsSync(dbPath)) {
+    return res.status(404).send("DB Missing");
+  }
+
+  let certDB = JSON.parse(fs.readFileSync(dbPath));
+
+  if (!certDB[tx]) {
+    return res.status(404).send("Certificate not found");
+  }
+
+  const imagePath = certDB[tx].fileUrl;
+
+  if (!imagePath || !fs.existsSync(imagePath)) {
+    return res.status(404).send("Image not found");
+  }
+
+  return res.sendFile(path.resolve(imagePath));
+});
+
 export default router;
 
 
