@@ -109,6 +109,7 @@ export default function StudentLookup() {
               borderRadius: 8,
               color: "white",
               fontWeight: "bold",
+              cursor:"pointer"
             }}
           >
             Download Certificate
